@@ -13,9 +13,9 @@ Understanding customer behavior and market trends is critical for maximizing sal
 
 The report focuses on:
 
-Identifying top-performing products, shops and categories
-Analyzing customer preferences
-Providing actionable recommendations for optimized sales strategies
+* Identifying top-performing products, shops and categories
+* Analyzing customer preferences
+* Providing actionable recommendations for optimized sales strategies
 
 By harnessing the power of data analysis, we can gain a deeper understanding of the market and customers, driving informed decisions that fuel profitable growth.
 
