@@ -36,6 +36,9 @@ The report employs a variety of charts and graphs to effectively communicate the
 
 ## Data Exploration
 
+![Sales Dashboard](https://github.com/saintgokex/eCommerce-Marketplace/blob/fd5e2304811bcd385ead3395794b0c982da89e24/Sales%20Dashboard.png)
+
+![Revenue Dashboard.png](https://github.com/saintgokex/eCommerce-Marketplace/blob/fd5e2304811bcd385ead3395794b0c982da89e24/Revenue%20Dashboard.png)
 
 
 ## Limitation 
