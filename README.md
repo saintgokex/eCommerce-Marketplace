@@ -1,12 +1,12 @@
 # eCommerce-Marketplace
 This repository houses the documented presentation of the sales and revenue analysis conducted for a B2B eCommerce Marketplace's 3 months historic data to answer business questions
 # Table of Contents
-Introduction
-Executive Summary
-Visualization
-Data Exploration
-Limitation
-Recommendation
+* Introduction
+* Executive Summary
+* Visualization
+* Dashboards
+* Limitation
+* Recommendation
 
 ## Introduction
 Understanding customer behavior and market trends is critical for maximizing sales success. This report leverages 3 months of sales data to provide a comprehensive picture of product performance, offering valuable insights for strategic decision-making.
@@ -34,7 +34,7 @@ The report employs a variety of charts and graphs to effectively communicate the
 * Guage: Tracking gross merchandise value and transaction-based commission growth
 * Scatterplot: Identifying correlation between number of orders and number of units sold.
 
-## Dashboard
+## Dashboards
 
 ![Sales Dashboard](https://github.com/saintgokex/eCommerce-Marketplace/blob/fd5e2304811bcd385ead3395794b0c982da89e24/Sales%20Dashboard.png)
 
