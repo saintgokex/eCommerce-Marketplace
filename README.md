@@ -45,7 +45,7 @@ The report employs a variety of charts and graphs to effectively communicate the
 * Date table: the unavailability of the date column made it an impossible task to analyze sales performance to understand how seasons/periods affect sales.
 
 ## Recommendation
-* Leverage the potential of the most sold products to drive revenue: A correlation coefficient of 0.79 signifies strong relationship between number of others and number of units sold. Therefore, the higher the on-demand products are manufactured, the higher the gross merchandise value and the higher RxAll makes on commission.
+* Leverage the potential of the most sold products to drive revenue: A correlation coefficient of 0.79 signifies strong relationship between number of orders and number of units sold. Therefore, the higher the on-demand products are manufactured, the higher the gross merchandise value and the higher the marketplace makes on commission.
 * Cross-Category Promotions:
   * Design cross-promotional campaigns that bundle low-order-volume products with high-performing items.
   * Offer discounts or incentives for purchasing across different categories.
