@@ -34,7 +34,7 @@ The report employs a variety of charts and graphs to effectively communicate the
 * Guage: Tracking gross merchandise value and transaction-based commission growth
 * Scatterplot: Identifying correlation between number of orders and number of units sold.
 
-## Data Exploration
+## Dashboard
 
 ![Sales Dashboard](https://github.com/saintgokex/eCommerce-Marketplace/blob/fd5e2304811bcd385ead3395794b0c982da89e24/Sales%20Dashboard.png)
 
